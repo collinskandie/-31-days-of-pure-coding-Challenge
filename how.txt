@@ -1,0 +1,7 @@
+How to open ONLINE BUS REGISTRATION SYSTEM.
+1.	Install winrar on your pc.
+2.	Un compress ONLINE bus registration folder on your desktop.
+3.	Using wampp server, start apache and mysql.
+4.	Open the folder you had installed your wampserver, mostly in LOCAL disk C:
+5.	Open www C:\wamp64\www folder and Copy paste Online bus reg files except the files named DATABASE.
+6.	Go back to the root folder “Wamp64” and open C:\wamp64\bin\mysql\mysql8.0.21\data and paste online_bus_registration_system.
